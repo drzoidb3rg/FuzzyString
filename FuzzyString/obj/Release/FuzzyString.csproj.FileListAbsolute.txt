@@ -1,0 +1,5 @@
+C:\temp\FuzzyString\FuzzyString\bin\Release\FuzzyString.dll
+C:\temp\FuzzyString\FuzzyString\bin\Release\FuzzyString.pdb
+C:\temp\FuzzyString\FuzzyString\obj\Release\FuzzyString.csprojResolveAssemblyReference.cache
+C:\temp\FuzzyString\FuzzyString\obj\Release\FuzzyString.dll
+C:\temp\FuzzyString\FuzzyString\obj\Release\FuzzyString.pdb
